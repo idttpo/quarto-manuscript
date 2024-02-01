@@ -23,29 +23,32 @@ and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
 
 
 <title-group>
-<article-title>서울대학교 논문작성</article-title>
+<article-title>2050년 탄소중립을 위한 에너지효율 및 수요반응 정책의 효과
+분석</article-title>
 </title-group>
 
 <contrib-group>
 <contrib contrib-type="author" corresp="yes">
 <name>
-<surname>Shin</surname>
-<given-names>Heeyoung</given-names>
+<surname>신희영</surname>
+<given-names></given-names>
 </name>
-<string-name>Heeyoung Shin</string-name>
+<string-name>신희영</string-name>
 
 <email>heeyoungshin108@gmail.com</email>
-<role>Practice</role>
-<role>R</role>
-<role>Quarto</role>
-<role vocab="https://credit.niso.org" vocab-term="visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+<role vocab="https://credit.niso.org" vocab-term="formal
+analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Analysis</role>
+<role>Energy System Modeling</role>
+<role>Cost Benefit Analysis</role>
+<role>Policy Implications</role>
 <xref ref-type="aff" rid="aff-1">a</xref>
 <xref ref-type="corresp" rid="cor-1">&#x002A;</xref>
 </contrib>
 </contrib-group>
 <aff id="aff-1">
 <institution-wrap>
-<institution>Seoul National University</institution>
+<institution>Seoul National University Graduate School of Environmental
+Studies</institution>
 </institution-wrap>
 
 
@@ -75,15 +78,14 @@ and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
 
 
 <abstract>
-<p>In September 2021, a significant jump in seismic activity on the
-island of La Palma (Canary Islands, Spain) signaled the start of a
-volcanic crisis that still continues at the time of writing. Earthquake
-data is continually collected and published by the Instituto Geográphico
-Nacional (IGN). …</p>
+<p>Energy System Modeling at a country level for Korea. 에너지효율 및
+수요반응 정책의 효과 분석석</p>
 </abstract>
 <kwd-group kwd-group-type="author">
-<kwd>La Palma</kwd>
-<kwd>Earthquakes</kwd>
+<kwd>Country Level Energy System Modeling</kwd>
+<kwd>Scenario Analysis</kwd>
+<kwd>Energy Efficiency</kwd>
+<kwd>Demand Response</kwd>
 </kwd-group>
 
 
@@ -237,28 +239,31 @@ Nacional (IGN). …</p>
 <sub-article article-type="notebook" id="nb-4-nb-article">
 <front-stub>
 <title-group>
-<article-title>서울대학교 논문작성</article-title>
+<article-title>2050년 탄소중립을 위한 에너지효율 및 수요반응 정책의 효과
+분석</article-title>
 </title-group>
 <contrib-group>
 <contrib contrib-type="author" corresp="yes">
 <name>
-<surname>Shin</surname>
-<given-names>Heeyoung</given-names>
+<surname>신희영</surname>
+<given-names></given-names>
 </name>
-<string-name>Heeyoung Shin</string-name>
+<string-name>신희영</string-name>
 
 <email>heeyoungshin108@gmail.com</email>
-<role>Practice</role>
-<role>R</role>
-<role>Quarto</role>
-<role vocab="https://credit.niso.org" vocab-term="visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+<role vocab="https://credit.niso.org" vocab-term="formal
+analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Analysis</role>
+<role>Energy System Modeling</role>
+<role>Cost Benefit Analysis</role>
+<role>Policy Implications</role>
 <xref ref-type="aff" rid="aff-1-nb-article">a</xref>
 <xref ref-type="corresp" rid="cor-1-nb-article">&#x002A;</xref>
 </contrib>
 </contrib-group>
 <aff id="aff-1-nb-article">
 <institution-wrap>
-<institution>Seoul National University</institution>
+<institution>Seoul National University Graduate School of Environmental
+Studies</institution>
 </institution-wrap>
 
 
@@ -272,11 +277,8 @@ Nacional (IGN). …</p>
 <corresp id="cor-1-nb-article">heeyoungshin108@gmail.com</corresp>
 </author-notes>
 <abstract>
-<p>In September 2021, a significant jump in seismic activity on the
-island of La Palma (Canary Islands, Spain) signaled the start of a
-volcanic crisis that still continues at the time of writing. Earthquake
-data is continually collected and published by the Instituto Geográphico
-Nacional (IGN). …</p>
+<p>Energy System Modeling at a country level for Korea. 에너지효율 및
+수요반응 정책의 효과 분석석</p>
 </abstract>
 </front-stub>
 
