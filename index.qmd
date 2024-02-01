@@ -1,23 +1,17 @@
 ---
-title: La Palma Earthquakes
+title: 서울대학교 논문작성
 author:
-  - name: Steve Purves
-    orcid: 0000-0002-0760-5497
+  - name: Heeyoung Shin
     corresponding: true
-    email: steve@curvenote.com
+    email: heeyoungshin108@gmail.com
     roles:
-      - Investigation
-      - Project administration
-      - Software
+      - Practice
+      - R
+      - Quarto
       - Visualization
     affiliations:
-      - Curvenote
-  - name: Rowan Cockett
-    orcid: 0000-0002-7859-8394
-    corresponding: false
-    roles: []
-    affiliations:
-      - Curvenote
+      - Seoul National University
+
 keywords:
   - La Palma
   - Earthquakes
